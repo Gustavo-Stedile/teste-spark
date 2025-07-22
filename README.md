@@ -1,1 +1,4 @@
-### `COMO INSTALAR`
+### `PRÉ-REQUISITOS:`
+bash`
+  spark
+`
